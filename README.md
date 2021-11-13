@@ -27,8 +27,8 @@ To see if Git installed in your computer, open the Windows Command Prompt, Power
 ## Running the application using Visual Studio ##
 1. Open a Visual Studio;
 2. Choose `Open a project or solution` from the Build menu. If necessary navigate through the application's folder to `DadJokesConsoleApplicartion.sln` file. 
-3. To run the application, use the menu bar (on your right), choose **Debug** button and when -> **Start without debugging** or use: `F5` shortcut for a Windows; 
-   ![Run button Windows](blob/assets/Windowsbutton.png)
-   To run the application, use the Solution bar (on your left), choose **DadJokesConsoleApplication (main)** click right button -> **Run Solution** for a Mac.
-   ![Run button Mac](blob/assets/Macbutton.png)
+3. To run the application, use the menu bar (on your right), choose **Debug** button and when -> **Start without debugging** or use: `F5` shortcut for a Windows\
+   ![Run button Windows](blob/assets/WindowsButton.PNG)\
+   To run the application, use the Solution bar (on your left), choose **DadJokesConsoleApplication (main)** click right button -> **Run Solution** for a Mac\
+   ![Run button Mac](blob/assets/MacButton.png)\
 4. A console will open and the application will start.
